@@ -6,4 +6,4 @@ Please enter your name:
 Brian
 Lauren
 Wyatt
-Johnny FINAL
+Johnny 
